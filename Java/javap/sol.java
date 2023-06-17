@@ -1,3 +1,4 @@
+//checking strings are anagrams or not
 import java.util.*;
 
 class sol {
