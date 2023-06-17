@@ -1,3 +1,5 @@
+//even odd program through inheritence
+
 import java.util.*;
 
 public class inheritence {
